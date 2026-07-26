@@ -10,4 +10,13 @@ Free for personal use. Do NOT use in any commercial setting; most fonts were bas
 ## Installation
 On any operating system that supports installing `.ttf` files, download the repo, extract the folder, and install any files you choose. Confirm they are installed by checking your installed fonts on Windows via the Control Panel, or in Font Book on macOS. You are now able to use them in any program that allows local user-installed typefaces.
 
-The folders in this repo have names based on the original names of the files from which they were extracted from. Some might provide a good idea on where the fonts are commonly used. Otherwise, check out the listings of the fonts below:
+The folders in this repo have names based on the original names of the files from which they were extracted from. Some might provide a good idea on where the fonts are commonly used. Otherwise, check out some noticable fonts you might be searching for. Otherwise, feel free to explore the other ones!
+
+1. `7_$Font2_ChaletLondonNineteenSixty.ttf` is used for main body in-game text.
+2. `4_$FixedWidthNumbers_ChaletLondonNineteenSixtyNumb.ttf` has tabular numbers, modified off of Chalet London 1960.
+3. `6_$Font5_SignPainter HouseScript.ttf` is used for road names and areas in the HUD, as well as job titles and yacht decals.
+4. `1_$HandstyleHeist_Handstyle Heist.ttf` is used on heist planning boards.
+5. `1_$Font6_GTAV Casino Dots.ttf` is used for the matrix display texts on slot machines at the Diamond Casino.
+6. `1_$Taxi_font_GTAVTaxiDigital.ttf` is used on the digital display in taxis.
+7. `4_$gtaCash_PricedownGTA.ttf` is the **logotype** version of Rockstar's version of Pricedown. It does _not_ display in-game, and is soley used for the Grand Theft Auto logo.
+8. 
