@@ -10,7 +10,7 @@ Free, but is strictly intended for educational, research, and personal use. Do N
 ## Installation
 On any operating system that supports installing `.ttf` files, download the repo, extract the folder, and install any files you choose. Confirm they are installed by checking your installed fonts on Windows via the Control Panel, or in Font Book on macOS. You are now able to use them in any program that allows local user-installed typefaces.
 
-The folders in this repo have names based on the original names of the files from which they were extracted from. Some might provide a good idea on where the fonts are commonly used. Otherwise, check out some noticable fonts you might be searching for. Otherwise, feel free to explore the other ones! Reference images coming soon in a future repo update.
+The folders in this repo have names based on the original names of the files from which they were extracted from. Some might provide a good idea on where the fonts are commonly used. Otherwise, check out some noticable fonts you might be searching for. Otherwise, feel free to explore the other ones! A reference image for the ones listed below is included.
 
 1. `7_$Font2_ChaletLondonNineteenSixty.ttf` is used for main body in-game text.
 2. `4_$FixedWidthNumbers_ChaletLondonNineteenSixtyNumb.ttf` has tabular numbers, modified off of Chalet London 1960. Used for timers and take numbers in status bars.
@@ -26,3 +26,10 @@ The folders in this repo have names based on the original names of the files fro
 12. `6_$gtaCash_PricedownGTAVInt.ttf` is the **in-game** version of Rockstar's version of Pricedown. It _does_ display in-game, used only for the most prominent text, as well as for the money and ammo counter.
 13. `1_RL_Arial.ttf` contains a very small amount of characters, presumably used exclusively in labels for X-Box controller buttons.
 14. `5_$GTAVLeaderboard_GTAV LeaderBoard.ttf` contains random icon glyphs for leaderboards.
+
+<img width="1080" height="2175" alt="FeaturedFontsGraphic" src="https://github.com/user-attachments/assets/8b325802-872e-41d8-9146-fbcd5fcafb66" />
+
+### Glyph differences
+Especially in numerical glyphs, some similar typefaces might have different styles to better match the context of what's going on in-game. For example, monospaced "tabular" numbers are preferred much more than the base font when numbers require lots of moving. This method is used to reduce text jitter.
+
+<img width="1920" height="1080" alt="NumericalGlyphDifferences" src="https://github.com/user-attachments/assets/91bae6f3-1076-4ab7-b401-9330b1c959fb" />
